@@ -1,0 +1,11 @@
+```mermaid
+pie title Human blood types in the United States
+"O-positive":38
+"A-positive":34
+"B-positive":9
+"O-negative":7
+"A-negative":6
+AB-positive":3
+"B-negative":2
+"AB-negative":1
+```
